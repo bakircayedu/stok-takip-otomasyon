@@ -1,0 +1,5 @@
+STOKID:1 [Tedarikci No: 1] [Urun Kodu: 4036] [Alis Miktar: 50] [Alis Fiyat: 200] [Tarih: 10/10/2022]
+STOKID:2 [Tedarikci No: 2] [Urun Kodu: 5068] [Alis Miktar: 100] [Alis Fiyat: 354.000000] [Tarih: 3/5/2022]
+STOKID:3 [Tedarikci No: 2] [Urun Kodu: 4036] [Alis Miktar: 10] [Alis Fiyat: 200] [Tarih: 2/2/2022]
+STOKID:5 [Tedarikci No: 1] [Urun Kodu: 4036] [Alis Miktar: 20] [Alis Fiyat: 300.000000] [Tarih: 21/2/1990]
+STOKID:5 [Tedarikci No: 2] [Urun Kodu: 4036] [Alis Miktar: 10] [Alis Fiyat: 10.000000] [Tarih: 1/22/2222]

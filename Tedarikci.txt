@@ -1,0 +1,10 @@
+1 Ahmet Yavuzlar_Sokak Elazig
+
+2 Cevdet Semikler Izmir
+
+3 Salih Egekent Izmir
+
+4 Kenan Karakocan Elazig
+
+
+23 Fuat deneme Elazig
